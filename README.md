@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Mobile App Expert | Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yourprofile"/></a>
+  <a href="https://www.linkedin.com/in/atul-tiwari-a87992367/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="atultiwari"/></a>
   <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="yourhandle"/></a>
   <a href="https://medium.com/@yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@yourprofile"/></a>
 </p>
