@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hi, I'm Atul Tiwari</h1>
-<h3 align="center">Full Stack Developer | Mobile App Expert | Tech Enthusiast</h3>
+<h3 align="center">Full Stack Flutter Developer | IOS App Developer </h3>
 
 ---
 
