@@ -10,8 +10,7 @@ I'm a passionate developer from India with expertise in building cross-platform 
 - 🔭 I'm currently working on **an exciting iOS project using Swift**
 - 🌱 Learning **SwiftUI and advanced iOS architectures**
 - 👯 Looking to collaborate on **open source Flutter/React projects**
-- 💬 Ask me about **Flutter, React, Node.js, or any tech stuff!**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
+- 💬 Ask me about **Flutter, Next.Js, SwiftUI, Swift, Node.js, tech stuff!**
 
 ---
 
