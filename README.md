@@ -1,18 +1,29 @@
-<h1 align="center">🚀 Hi, I'm Atul Tiwari</h1>
-<h3 align="center">Full Stack Flutter Developer | IOS App Developer </h3>
+# Sr. Flutter Developer & iOS Engineer
+
+## 👋 Hi there!
+
+Welcome to my portfolio. I’m a Senior Flutter Developer & iOS Engineer with a passion for building robust, scalable, and performant mobile applications.
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 Skills & Technologies
 
-I'm a passionate developer from India with expertise in building cross-platform mobile applications and modern web applications. I love turning ideas into reality through code and constantly learning new technologies to stay ahead of the curve.
-
-- 🔭 I'm currently working on **an exciting iOS project using Swift**
-- 🌱 Learning **SwiftUI and advanced iOS architectures**
-- 👯 Looking to collaborate on **open source Flutter/React projects**
-- 💬 Ask me about **Flutter, Next.Js, SwiftUI, Swift, Node.js, tech stuff!**
+- **Flutter & Dart**
+- **Swift & SwiftUI**
+- **Next.js**
+- **Firebase**
+- **Cloud Functions**
+- **Push Notification**
 
 ---
+
+### 📱 Portfolio
+
+Check out some of my work:  
+[portfolio-app-dev.vercel.app](https://portfolio-app-dev.vercel.app/)
+
+---
+
 
 ### 🛠 Tech Stack
 
@@ -31,7 +42,6 @@ I'm a passionate developer from India with expertise in building cross-platform 
 
 #### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
