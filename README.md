@@ -1,106 +1,55 @@
-<div align="center">
+# Sr. Flutter Developer & iOS Engineer
 
-⚡ It's the Code For Me ⚡
+## 👋 Hi there!
 
-Sr. Flutter Developer & iOS Engineer
+Welcome to my portfolio. I’m a Senior Flutter Developer & iOS Engineer with a passion for building robust, scalable, and performant mobile applications.
 
-Shipping apps that hit different.
+---
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding vibe" />
-</p>
+### 🚀 Skills & Technologies
 
-👋 What's Good?
+- **Flutter & Dart**
+- **Swift & SwiftUI**
+- **Next.js**
+- **Firebase**
+- **Cloud Functions**
+- **Push Notification**
 
-Welcome to my digital crib. I’m a Senior Dev turning caffeine into clean architecture. I don't just write code; I manifest scalable, robust, and performant mobile experiences.
+---
 
-Current Vibe: Ghosting bugs 🐛 | Sipping Matcha 🍵 | Deploying on Fridays 🚀
+### 📱 Portfolio
 
-✨ The Main Character Energy (Skills)
+Check out some of my work:  
+[portfolio-app-dev.vercel.app](https://portfolio-app-dev.vercel.app/)
 
-The Stack
+---
 
-The Vibe
 
-Flutter & Dart
+### 🛠 Tech Stack
 
-My daily drivers. Cross-platform perfection.
+#### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-Swift & SwiftUI
+#### Web Development
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-Native iOS development? Say less.
+#### Backend & Databases
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Next.js
+#### Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-For when the web needs to look aesthetic.
 
-Firebase
+<!-- <p align="center"> -->
+  <!-- <a href="mailto:atult8556@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> -->
+<!--   <a href="https://wa.me/918960290289"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a> -->
+  <!-- <a href="https://kajus-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a> -->
+<!-- </p> -->
 
-Backend as a Service? Huge W.
-
-Cloud Functions
-
-Serverless logic that just works (no cap).
-
-Push Notifications
-
-Keeping users in the loop, 24/7.
-
-🧾 The Receipts (Portfolio)
-
-Valid proof that I actually do this. Check the drip 👇
-
-👉 portfolio-app-dev.vercel.app
-
-(It’s giving professional, it’s giving hired)
-
-🛠️ The Arsenal (Tech Stack)
-
-Mobile Dev (The GOATs) <p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-
-</p>
-
-Web Dev (Frontend Magic) <p>
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
-</p>
-
-Backend & The "Cloud" <p>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-</p>
-
-Tools I Can't Live Without <p>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-
-</p>
-
-📈 The Flex (Stats)
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkajumac07%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" alt="stats" />
-</p>
-
-📲 Slide Into The DMs
-
-Got a project that needs to be built? Or just wanna trade memes? Hmu.
-
-<p align="center">
-<a href="mailto:atult8556@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://portfolio-app-dev.vercel.app/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-000000%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" alt="Portfolio" />
-</a>
-</p>
-
-<p align="center">
-<i>"Simplicity is the ultimate sophistication." - Da Vinci (probably)</i>
-</p>
-
-</div>
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kajumac07&label=Profile%20views&color=0e75b6&style=flat" alt="atultiwari7388" />
+</p> -->
