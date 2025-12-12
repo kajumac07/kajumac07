@@ -6,7 +6,7 @@ Welcome to my portfolio. I’m a Senior Flutter Developer & iOS Engineer with a 
 
 ---
 
-### 🚀 Skills & Technologies
+### 🚀 Skills & Technologya
 
 - **Flutter & Dart**
 - **Swift & SwiftUI**
