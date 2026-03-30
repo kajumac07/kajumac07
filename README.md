@@ -9,16 +9,19 @@
 I’m a Flutter Engineer & iOS Developer with 2+ years of experience building high-performance mobile applications and scalable backend systems.
 
 I don’t just build apps — I design complete systems including:
-- 📱 Mobile apps
-- 🧠 AI-powered workflows
-- ⚙️ Automation pipelines
-- 🏗 Scalable backend architectures
+- 📱 Mobile apps  
+- 🧠 AI-powered workflows  
+- ⚙️ Automation pipelines  
+- 🏗 Scalable backend architectures  
 
 ---
 
 ## 🚀 Startup: QueueLess India
 
 Founder of **QueueLess India** — a smart queue management & booking platform designed to eliminate waiting lines for businesses.
+
+🚧 **Launching Soon**  
+Currently in active development — building a scalable system to transform how businesses manage queues and customer flow.
 
 ### 🔥 Key Features
 - 📍 Real-time queue tracking  
@@ -32,10 +35,10 @@ Founder of **QueueLess India** — a smart queue management & booking platform d
 
 ## 🤖 AI & Automation
 
-- ⚡ Workflow automation using **n8n**
-- 🧠 AI agents for business use-cases
-- 💬 Custom GPT tools for developers & startups
-- 🔗 API integrations & system automation
+- ⚡ Workflow automation using **n8n**  
+- 🧠 AI agents for business use-cases  
+- 💬 Custom GPT tools for developers & startups  
+- 🔗 API integrations & system automation  
 
 ### 💡 Example Work
 - Automated order management systems  
@@ -61,20 +64,20 @@ https://chatgpt.com/g/g-69c37b0f13bc8191acba810953cc152c-flutter-dev-bhai
 
 ## 🧠 What I Build
 
-- 📱 Scalable Mobile Apps (Flutter + iOS)
-- 🏗 Full-stack systems (Next.js + Firebase)
-- 🤖 AI-powered business tools
-- ⚙️ Automation pipelines (n8n)
-- 🚀 MVPs for startups
+- 📱 Scalable Mobile Apps (Flutter + iOS)  
+- 🏗 Full-stack systems (Next.js + Firebase)  
+- 🤖 AI-powered business tools  
+- ⚙️ Automation pipelines (n8n)  
+- 🚀 MVPs for startups  
 
 ---
 
 ## 🏗 System Design & Architecture
 
-- 🔐 Secure Firebase architecture (Auth + Rules + Validation)
-- ⚡ Real-time scalable applications
-- 🧩 Clean & modular codebases
-- 🚀 Performance-optimized mobile apps
+- 🔐 Secure Firebase architecture (Auth + Rules + Validation)  
+- ⚡ Real-time scalable applications  
+- 🧩 Clean & modular codebases  
+- 🚀 Performance-optimized mobile apps  
 
 ---
 
@@ -102,10 +105,10 @@ https://chatgpt.com/g/g-69c37b0f13bc8191acba810953cc152c-flutter-dev-bhai
 ### 🛠 Tools & Automation
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- n8n (Automation)
-- REST APIs
-- Webhooks
-- Cloud Functions
+- n8n (Automation)  
+- REST APIs  
+- Webhooks  
+- Cloud Functions  
 
 ---
 
